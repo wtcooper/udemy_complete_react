@@ -1,3 +1,5 @@
 # udemy_complete_react
 
-- testing update
+
+# create a new project
+npx create-react-app monsters-rolodex
